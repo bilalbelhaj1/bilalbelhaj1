@@ -1,81 +1,54 @@
 # Hi there 👋 I'm Bilal
 
-🎓 Final-year Software Engineering student
-💻 Backend Engineer in the making | Full-stack capable
-🚀 Passionate about building scalable, production-ready systems
+💻 Backend-focused Software Engineering Student
+🚀 Passionate about scalable systems & clean architecture
+🎓 Final Year Student | Open to Opportunities
 
 ---
 
-## 🧠 About Me
+## 🚀 Tech Stack
 
-* 🔭 I specialize in **backend development & system design**
-* 🧩 I enjoy building the logic that powers applications
-* 🌱 Currently diving deeper into **scalable architectures & clean code**
-* 💼 Actively looking for **internship / junior backend roles**
-* ⚡ I care about **performance, structure, and maintainability**
+### 🧠 Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-## 🛠️ Tech Stack
+### ⚙️ Backend
 
-### 🚀 Backend
-
-* Java (Spring Boot)
-* Node.js (Express)
-* Python (Flask)
-* REST API Design & Development
-* Authentication & Security
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
 ### 🎨 Frontend
 
-* React
-* TypeScript
-* JavaScript
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ### 🗄️ Databases
 
-* PostgreSQL
-* MongoDB
-* MySQL
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### ⚙️ Tools & DevOps
+### 🛠️ Tools
 
-* Git & GitHub
-* Docker
-* Linux
-* Postman
-
----
-
-## 📈 What I'm Focused On
-
-* Designing scalable backend systems
-* Writing clean, maintainable code
-* Improving system design skills
-* Building real-world production-ready projects
-* Exploring microservices & distributed systems
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-## 📂 Projects
+## 📈 GitHub Stats
 
-💡 I enjoy building:
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalbelhaj1\&show_icons=true\&theme=radical)
 
-* Scalable REST APIs
-* Authentication & authorization systems
-* Backend architectures from scratch
-* Full-stack apps with strong backend logic
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbelhaj1\&layout=compact\&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-* 💬 Ask me about backend, APIs, or system design
-* 📫 Open to collaboration and opportunities
-* 🌍 Available for remote work
-
----
-
-## ⚡ Fun Fact
-
-I prefer building the **engine of the app** more than the dashboard 😄
+* 💼 Open for internships & junior backend roles
+* 🌍 Open to remote opportunities
